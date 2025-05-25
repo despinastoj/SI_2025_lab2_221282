@@ -63,6 +63,7 @@ allItems = ["Milk", 5, 100, 0]; cardNumber = "5458521478569874"
 
 **Објаснување на тестовите** 
 
+
 @Test
     void testEveryStatement() {
         // Test case 1
